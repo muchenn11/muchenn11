@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muchenn11
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Artificial Intelligence amd DevOps Engineering
+- 🌱 I’m currently learning Artificial Intelligence and DevOps Engineering
 - 💞️ I’m looking to collaborate on any Backend projects
 - 📫 How to reach me muchenn11@gmail.com
 
